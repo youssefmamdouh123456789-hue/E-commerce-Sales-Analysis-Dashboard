@@ -1,3 +1,5 @@
+<img width="1280" height="615" alt="image" src="https://github.com/user-attachments/assets/ac94d816-d235-43db-b9ca-48931169f98c" />
+
 # E-commerce Sales Analysis Dashboard
 
 ## 📊 Overview
